@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://muaraai.com">
-    <img src="https://raw.githubusercontent.com/MuaraAI/.github/main/assets/banner.png" alt="MuaraAI, komunitas mahasiswa lintas kampus di Indonesia" width="100%">
+    <img src="https://raw.githubusercontent.com/MuaraAI/.github/main/assets/banner.png" alt="MuaraAI: open source software and local AI, built in Pontianak" width="100%">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><b>FluxCode</b></a>
   &nbsp;·&nbsp;
-  <a href="https://muaraai.com/onboarding"><b>Bergabung</b></a>
+  <a href="https://muaraai.com/onboarding"><b>Join</b></a>
 </p>
 
 <p align="center">
@@ -24,86 +24,88 @@
   <a href="mailto:admin@muaraai.com"><img src="https://img.shields.io/badge/Email-admin@muaraai.com-0C3E5E?style=flat-square&labelColor=08182B" alt="Email admin@muaraai.com"></a>
 </p>
 
-MuaraAI adalah komunitas mahasiswa lintas kampus di Indonesia yang membangun software,
-sistem AI lokal, dan riset terbuka. Proyeknya open source, dan risetnya ditulis supaya
-bisa diulang orang lain.
+MuaraAI is an independent team in Pontianak, Indonesia. We build software, local AI
+systems, and open research. Our code is open source, and we write up our research so
+anyone can repeat it.
 
-<table>
-  <tr><td><b>Asal</b></td><td>Mahasiswa UBSI Pontianak, Kalimantan Barat</td></tr>
-  <tr><td><b>Terbuka untuk</b></td><td>Mahasiswa kampus mana pun di Indonesia, mulai angkatan 2026</td></tr>
-  <tr><td><b>Cara masuk</b></td><td>Tunjukkan karya yang pernah kamu buat (Proof of Work)</td></tr>
-</table>
-
-## Proyek
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MuaraAI/Mira">Mira</a></h3>
-      <p>Satu pintu untuk layanan kampus UBSI. Dashboard PWA, REST API, dan MCP Server
-      untuk SIAKAD, MyBest, Ujian Online, Perpustakaan, Berita, dan Repository.</p>
+      <p>One place for a university's student services. A PWA dashboard, REST API, and
+      MCP server for academic records, e-learning, online exams, the library, news, and
+      the research repository.</p>
       <p>
-        <a href="https://github.com/MuaraAI/Mira/releases"><img src="https://img.shields.io/github/v/release/MuaraAI/Mira?style=flat-square&label=rilis&color=0C3E5E&labelColor=08182B" alt="Rilis terbaru Mira"></a>
-        <img src="https://img.shields.io/badge/Python-Next.js-0C3E5E?style=flat-square&labelColor=08182B" alt="Python dan Next.js">
+        <a href="https://github.com/MuaraAI/Mira/releases"><img src="https://img.shields.io/github/v/release/MuaraAI/Mira?style=flat-square&label=release&color=0C3E5E&labelColor=08182B" alt="Latest Mira release"></a>
+        <img src="https://img.shields.io/badge/Python-Next.js-0C3E5E?style=flat-square&labelColor=08182B" alt="Python and Next.js">
       </p>
       <p><a href="https://mira.muaraai.com">mira.muaraai.com</a> · MIT</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MuaraAI/FluxCode">FluxCode</a></h3>
-      <p>Editor kode native untuk Windows dan Linux, ditulis dengan Rust. Panel agent AI,
-      terminal yang ramah Python, Source Control bawaan, dan tanpa telemetri. Dibuat oleh
-      mahasiswa semester 1 dan masih dalam pengembangan.</p>
+      <p>A native code editor for Windows and Linux, written in Rust. It has an AI agent
+      panel, a terminal that works well with Python, built-in source control, and no
+      telemetry. Still in development.</p>
       <p>
-        <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><img src="https://img.shields.io/badge/download-build_terbaru-0C3E5E?style=flat-square&labelColor=08182B" alt="Download build terbaru FluxCode"></a>
-        <img src="https://img.shields.io/badge/Rust-GPUI-0C3E5E?style=flat-square&labelColor=08182B" alt="Rust dan GPUI">
+        <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><img src="https://img.shields.io/badge/download-latest_build-0C3E5E?style=flat-square&labelColor=08182B" alt="Download the latest FluxCode build"></a>
+        <img src="https://img.shields.io/badge/Rust-GPUI-0C3E5E?style=flat-square&labelColor=08182B" alt="Rust and GPUI">
       </p>
-      <p>Windows 10/11 dan Linux x64 · GPL-3.0</p>
+      <p>Windows 10/11 and Linux x64 · GPL-3.0</p>
     </td>
   </tr>
 </table>
 
-| Proyek | Untuk apa | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [**MuaraAI&nbsp;Portal**](https://github.com/MuaraAI/MuaraAI) | Website komunitas di [muaraai.com](https://muaraai.com): peta kampus anggota, pendaftaran lewat karya yang terverifikasi, direktori anggota, dan dashboard belajar | TypeScript |
-| [**AI&nbsp;Portal**](https://github.com/MuaraAI/ai-web) | Portal API model Muara V1 Flash di [ai.muaraai.com](https://ai.muaraai.com). Masuk dengan akun MuaraAI, lalu buat API key sendiri. Key dibuat dan di-hash di browser | TypeScript |
-| [**Laku**](https://github.com/MuaraAI/laku) | Prediksi restock untuk seller Shopee, TikTok Shop, dan Tokopedia di [laku.muaraai.com](https://laku.muaraai.com). Proyek hackathon SIFEST 2026 | Python |
-| [**Muara&nbsp;Skins**](https://github.com/MuaraAI/Skins) | Skin pack terminal dan theme studio untuk Hermes Agent | Python |
-| [**Harness&nbsp;DC**](https://github.com/MuaraAI/harness-dc) | Discord Rich Presence untuk agent coding AI (Hermes Agent dan Antigravity), jalan tanpa konfigurasi | TypeScript |
+| [**MuaraAI&nbsp;Portal**](https://github.com/MuaraAI/MuaraAI) | Our website at [muaraai.com](https://muaraai.com), with the member directory, sign-up based on verified work, and a learning dashboard | TypeScript |
+| [**AI&nbsp;Portal**](https://github.com/MuaraAI/ai-web) | API portal for the Muara V1 Flash model at [ai.muaraai.com](https://ai.muaraai.com). Sign in with your MuaraAI account and create your own API keys, which are generated and hashed in the browser | TypeScript |
+| [**Laku**](https://github.com/MuaraAI/laku) | Restock forecasting for sellers on Shopee, TikTok Shop, and Tokopedia at [laku.muaraai.com](https://laku.muaraai.com). Built for the SIFEST 2026 hackathon | Python |
+| [**Muara&nbsp;Skins**](https://github.com/MuaraAI/Skins) | Terminal skin pack and theme studio for Hermes Agent | Python |
+| [**Harness&nbsp;DC**](https://github.com/MuaraAI/harness-dc) | Discord Rich Presence for AI coding agents (Hermes Agent and Antigravity) that runs without any setup | TypeScript |
 
-## Tim inti
+## Based in Pontianak
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuaraAI/.github/main/assets/map-pontianak.png" alt="Map of Indonesia with a marker on Pontianak, West Kalimantan, which sits on the equator at 0.03° S, 109.34° E" width="100%">
+</p>
+
+We work out of Pontianak, West Kalimantan, a city that sits almost exactly on the equator.
+
+## Team
 
 <table>
   <tr>
     <td align="center" valign="top" width="200">
-      <a href="https://github.com/Curzyori"><img src="https://github.com/Curzyori.png?size=160" width="72" alt="Foto profil Yuken Velino"><br><b>Yuken Velino</b></a><br>
+      <a href="https://github.com/Curzyori"><img src="https://github.com/Curzyori.png?size=160" width="72" alt="Yuken Velino's profile photo"><br><b>Yuken Velino</b></a><br>
       <sub>Founder · maintainer · builder</sub>
     </td>
     <td align="center" valign="top" width="200">
-      <a href="https://github.com/Seeyaa77"><img src="https://github.com/Seeyaa77.png?size=160" width="72" alt="Foto profil Muhammad Raffli Aldiansyah"><br><b>Muhammad Raffli Aldiansyah</b></a><br>
+      <a href="https://github.com/Seeyaa77"><img src="https://github.com/Seeyaa77.png?size=160" width="72" alt="Muhammad Raffli Aldiansyah's profile photo"><br><b>Muhammad Raffli Aldiansyah</b></a><br>
       <sub>Co-founder · maintainer · builder</sub>
     </td>
     <td align="center" valign="top" width="200">
-      <a href="https://github.com/MyKineID"><img src="https://github.com/MyKineID.png?size=160" width="72" alt="Foto profil Verzio Yamanansyah"><br><b>Verzio Yamanansyah</b></a><br>
+      <a href="https://github.com/MyKineID"><img src="https://github.com/MyKineID.png?size=160" width="72" alt="Verzio Yamanansyah's profile photo"><br><b>Verzio Yamanansyah</b></a><br>
       <sub>Co-founder · maintainer · builder</sub>
     </td>
   </tr>
 </table>
 
-## Bergabung
+## Join us
 
-1. Buka [muaraai.com/onboarding](https://muaraai.com/onboarding).
-2. Isi data kampus dan tautan ke karya yang pernah kamu buat.
-3. Setujui kode etik komunitas.
-4. Hubungkan akun GitHub-mu. Tim maintainer akan memeriksa karyamu.
+We bring in new members based on what they have built. Send us a link to your work
+(Proof of Work) at [muaraai.com/onboarding](https://muaraai.com/onboarding), connect your
+GitHub account, and a maintainer will review it.
 
 <p>
-  <a href="https://muaraai.com/onboarding"><img src="https://img.shields.io/badge/Daftar_di-muaraai.com%2Fonboarding-92EEFF?style=for-the-badge&labelColor=08182B" alt="Daftar di muaraai.com/onboarding"></a>
+  <a href="https://muaraai.com/onboarding"><img src="https://img.shields.io/badge/Apply_at-muaraai.com%2Fonboarding-92EEFF?style=for-the-badge&labelColor=08182B" alt="Apply at muaraai.com/onboarding"></a>
 </p>
 
-Untuk kerja sama, kirim email ke [admin@muaraai.com](mailto:admin@muaraai.com).
+For partnerships, email [admin@muaraai.com](mailto:admin@muaraai.com).
 
 ---
 
 <p align="center">
-  <sub>© 2026 MuaraAI Community · Dibangun secara independen oleh mahasiswa Indonesia</sub>
+  <sub>© 2026 MuaraAI · Built independently in Pontianak, Indonesia</sub>
 </p>
