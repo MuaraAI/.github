@@ -1,19 +1,13 @@
 <p align="center">
   <a href="https://muaraai.com">
-    <img src="https://raw.githubusercontent.com/MuaraAI/.github/main/assets/banner.png" alt="MuaraAI: open source software and local AI, built in Pontianak" width="100%">
+    <img src="https://raw.githubusercontent.com/MuaraAI/.github/main/assets/banner.png" alt="MuaraAI wave logo with the tagline: open source software and local AI, built in Pontianak" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://muaraai.com"><b>Website</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://mira.muaraai.com"><b>Mira</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://ai.muaraai.com"><b>AI Portal</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><b>FluxCode</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://muaraai.com/onboarding"><b>Join</b></a>
+  <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><img src="https://img.shields.io/badge/FluxCode-download-0C3E5E?style=for-the-badge&amp;labelColor=08182B&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTJFRUZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIxIDE1djRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJ2LTQiLz48cGF0aCBkPSJNNyAxMGw1IDUgNS01Ii8%2BPHBhdGggZD0iTTEyIDE1VjMiLz48L3N2Zz4%3D" alt="FluxCode: download" height="28"></a>
+  <a href="https://muaraai.com"><img src="https://img.shields.io/badge/Website-muaraai.com_%28in_progress%29-0C3E5E?style=for-the-badge&amp;labelColor=08182B&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTJFRUZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D" alt="Website: muaraai.com (in progress)" height="28"></a>
+  <a href="https://mira.muaraai.com"><img src="https://img.shields.io/badge/Mira-mira.muaraai.com-0C3E5E?style=for-the-badge&amp;labelColor=08182B&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTJFRUZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D" alt="Mira: mira.muaraai.com" height="28"></a>
 </p>
 
 <p align="center">
@@ -32,7 +26,28 @@ anyone can repeat it.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/MuaraAI/FluxCode">FluxCode</a></h3>
+      <p>A native code editor for Windows and Linux, written in Rust. It has an AI agent
+      panel, a terminal that works well with Python, built-in source control, and no
+      telemetry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-GPUI-0C3E5E?style=flat-square&labelColor=08182B" alt="Rust and GPUI">
+        <img src="https://img.shields.io/badge/license-GPL--3.0-0C3E5E?style=flat-square&labelColor=08182B" alt="GPL-3.0">
+      </p>
+      <p><a href="https://github.com/MuaraAI/FluxCode/releases/latest">Download the latest build</a><br><sub>Windows 10/11 and Linux x64</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/MuaraAI/MuaraAI">Website</a></h3>
+      <p>Our home at muaraai.com, with the member directory, sign-up based on verified
+      work, and a learning dashboard. We are rebuilding it now, so pages may change.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-in_progress-92EEFF?style=flat-square&labelColor=08182B" alt="Status: in progress">
+        <img src="https://img.shields.io/badge/TypeScript-MIT-0C3E5E?style=flat-square&labelColor=08182B" alt="TypeScript, MIT">
+      </p>
+      <p><a href="https://muaraai.com">muaraai.com</a></p>
+    </td>
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/MuaraAI/Mira">Mira</a></h3>
       <p>One place for a university's student services. A PWA dashboard, REST API, and
       MCP server for academic records, e-learning, online exams, the library, news, and
@@ -41,29 +56,10 @@ anyone can repeat it.
         <a href="https://github.com/MuaraAI/Mira/releases"><img src="https://img.shields.io/github/v/release/MuaraAI/Mira?style=flat-square&label=release&color=0C3E5E&labelColor=08182B" alt="Latest Mira release"></a>
         <img src="https://img.shields.io/badge/Python-Next.js-0C3E5E?style=flat-square&labelColor=08182B" alt="Python and Next.js">
       </p>
-      <p><a href="https://mira.muaraai.com">mira.muaraai.com</a> · MIT</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MuaraAI/FluxCode">FluxCode</a></h3>
-      <p>A native code editor for Windows and Linux, written in Rust. It has an AI agent
-      panel, a terminal that works well with Python, built-in source control, and no
-      telemetry. Still in development.</p>
-      <p>
-        <a href="https://github.com/MuaraAI/FluxCode/releases/latest"><img src="https://img.shields.io/badge/download-latest_build-0C3E5E?style=flat-square&labelColor=08182B" alt="Download the latest FluxCode build"></a>
-        <img src="https://img.shields.io/badge/Rust-GPUI-0C3E5E?style=flat-square&labelColor=08182B" alt="Rust and GPUI">
-      </p>
-      <p>Windows 10/11 and Linux x64 · GPL-3.0</p>
+      <p><a href="https://mira.muaraai.com">mira.muaraai.com</a></p>
     </td>
   </tr>
 </table>
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**MuaraAI&nbsp;Portal**](https://github.com/MuaraAI/MuaraAI) | Our website at [muaraai.com](https://muaraai.com), with the member directory, sign-up based on verified work, and a learning dashboard | TypeScript |
-| [**AI&nbsp;Portal**](https://github.com/MuaraAI/ai-web) | API portal for the Muara V1 Flash model at [ai.muaraai.com](https://ai.muaraai.com). Sign in with your MuaraAI account and create your own API keys, which are generated and hashed in the browser | TypeScript |
-| [**Laku**](https://github.com/MuaraAI/laku) | Restock forecasting for sellers on Shopee, TikTok Shop, and Tokopedia at [laku.muaraai.com](https://laku.muaraai.com). Built for the SIFEST 2026 hackathon | Python |
-| [**Muara&nbsp;Skins**](https://github.com/MuaraAI/Skins) | Terminal skin pack and theme studio for Hermes Agent | Python |
-| [**Harness&nbsp;DC**](https://github.com/MuaraAI/harness-dc) | Discord Rich Presence for AI coding agents (Hermes Agent and Antigravity) that runs without any setup | TypeScript |
 
 ## Based in Pontianak
 
