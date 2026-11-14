@@ -22,20 +22,26 @@ MuaraAI is an independent team in Pontianak, Indonesia. We build software, local
 systems, and open research. Our code is open source, and we write up our research so
 anyone can repeat it.
 
+Our most-starred project is [FluxCode](https://github.com/MuaraAI/FluxCode).
+
 ## Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/MuaraAI/FluxCode">FluxCode</a></h3>
-      <p>A native code editor for Windows and Linux, written in Rust. It has an AI agent
+      <p>A native code editor for Windows, macOS, and Linux, written in Rust. It has an AI agent
       panel, a terminal that works well with Python, built-in source control, and no
       telemetry.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-GPUI-0C3E5E?style=flat-square&labelColor=08182B" alt="Rust and GPUI">
         <img src="https://img.shields.io/badge/license-GPL--3.0-0C3E5E?style=flat-square&labelColor=08182B" alt="GPL-3.0">
+        <img src="https://img.shields.io/github/stars/MuaraAI/FluxCode?style=flat-square&labelColor=08182B&color=0C3E5E" alt="FluxCode stars on GitHub">
+        <img src="https://img.shields.io/badge/macOS-preview-0C3E5E?style=flat-square&labelColor=08182B" alt="macOS build: preview">
       </p>
-      <p><a href="https://github.com/MuaraAI/FluxCode/releases/latest">Download the latest build</a><br><sub>Windows 10/11 and Linux x64</sub></p>
+      <p><a href="https://github.com/MuaraAI/FluxCode/releases/latest">Download the latest build</a><br><sub>Windows 10/11, Linux x64, and macOS (preview)</sub></p>
+      <p>The macOS build is a preview. We have not tested it on a real Mac yet. Try it and
+      <a href="https://github.com/MuaraAI/FluxCode/issues/new">open an issue</a> if something breaks.</p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/MuaraAI/MuaraAI">Website</a></h3>
@@ -55,6 +61,7 @@ anyone can repeat it.
       <p>
         <a href="https://github.com/MuaraAI/Mira/releases"><img src="https://img.shields.io/github/v/release/MuaraAI/Mira?style=flat-square&label=release&color=0C3E5E&labelColor=08182B" alt="Latest Mira release"></a>
         <img src="https://img.shields.io/badge/Python-Next.js-0C3E5E?style=flat-square&labelColor=08182B" alt="Python and Next.js">
+        <img src="https://img.shields.io/github/stars/MuaraAI/Mira?style=flat-square&labelColor=08182B&color=0C3E5E" alt="Mira stars on GitHub">
       </p>
       <p><a href="https://mira.muaraai.com">mira.muaraai.com</a></p>
     </td>
@@ -71,7 +78,8 @@ We work out of Pontianak, West Kalimantan, a city that sits almost exactly on th
 
 ## Team
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td align="center" valign="top" width="200">
       <a href="https://github.com/Curzyori"><img src="https://github.com/Curzyori.png?size=160" width="72" alt="Yuken Velino's profile photo"><br><b>Yuken Velino</b></a><br>
@@ -87,6 +95,7 @@ We work out of Pontianak, West Kalimantan, a city that sits almost exactly on th
     </td>
   </tr>
 </table>
+</div>
 
 ## Join us
 
